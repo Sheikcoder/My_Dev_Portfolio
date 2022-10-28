@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.feba487a.css",
+    "main.js": "/static/js/main.438afbd8.js",
+    "static/media/Sheik_Abdulla01.pdf": "/static/media/Sheik_Abdulla01.3c6a3d9162f761a6ffa2.pdf",
+    "static/media/charityweb.jpeg": "/static/media/charityweb.b7b6868de4a27f41e5b4.jpeg",
+    "static/media/developer.jpg": "/static/media/developer.23e159bedb27f3e8dcb6.jpg",
+    "static/media/port.jpeg": "/static/media/port.d2974adf8ec59c6972ac.jpeg",
+    "static/media/resume.jpeg": "/static/media/resume.27ac9315ad11bb1e81f6.jpeg",
+    "static/media/invoice.jpeg": "/static/media/invoice.08c27adef3054c22187f.jpeg",
+    "static/media/sheik.jpeg": "/static/media/sheik.ea311194be91f3a5f8be.jpeg",
+    "index.html": "/index.html",
+    "main.feba487a.css.map": "/static/css/main.feba487a.css.map",
+    "main.438afbd8.js.map": "/static/js/main.438afbd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feba487a.css",
+    "static/js/main.438afbd8.js"
+  ]
+}
