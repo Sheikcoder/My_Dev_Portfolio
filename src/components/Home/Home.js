@@ -24,10 +24,10 @@ function Home() {
               </h1>
 
               <p className="heading-description blockquote">
-                I am passionate about using Javascript and Animation Libraries
-                to create awesome user experiences. With over one years of
-                experience developing web applications using the latest
-                front-end technologies.
+              Highly motivated and results-driven Software Development Engineer with <span className="purple"> 
+              2+ years of experience</span> specializing in FrontendDevelopment with <span className="purple">React.js.</span>  
+              Seeking challenging opportunities to contribute technical expertise and 
+              innovative solutions in adynamic global environment.
               </p>
 
               <div className="heading-type">

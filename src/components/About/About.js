@@ -42,6 +42,7 @@ function About() {
               />
             ))}
           </Col>
+          &nbsp;&nbsp;&nbsp;
           <Col className="skill-wrapper">
             <h1 className="project-heading">
               <strong className="purple">Tools</strong> I use

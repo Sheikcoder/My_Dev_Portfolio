@@ -4,10 +4,11 @@
   "homepage": "https://trichysheikabdulla.netlify.app",
   "private": true,
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "./node_modules/.bin/netlify-lambda serve src",
-  "build": "react-scripts build"
-},
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -22,13 +23,8 @@
     "react-rating": "^2.0.5",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^5.0.1",
+    "sass": "^1.69.5",
     "typewriter-effect": "^2.18.2"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
