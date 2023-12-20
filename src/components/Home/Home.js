@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/sheik.jpeg";
+import myImg from "../../Assets/sheikimg.png";
 import SocialMedia from "../SocialMedia";
 import TypeWriter from "./TypeWriter";
 
@@ -36,7 +36,7 @@ function Home() {
             </Col>
 
             <Col md={5}>
-              <img src={myImg} className="profile-pic" alt="avatar" />
+              <img src={myImg} className="img-fluid" alt="avatar" />
             </Col>
           </Row>
         </Container>

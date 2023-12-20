@@ -1,7 +1,7 @@
 {
   "name": "sheik-portfolio",
   "version": "0.1.0",
-  "homepage": "https://trichysheikabdulla.netlify.app",
+  "homepage": "http://trichysheikabdulla.42web.io",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
