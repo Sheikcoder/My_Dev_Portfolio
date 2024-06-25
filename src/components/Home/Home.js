@@ -25,9 +25,8 @@ function Home() {
 
               <p className="heading-description blockquote">
               Highly motivated and results-driven Software Development Engineer with <span className="purple"> 
-              2+ years of experience</span> specializing in FrontendDevelopment with <span className="purple">React.js.</span>  
-              Seeking challenging opportunities to contribute technical expertise and 
-              innovative solutions in adynamic global environment.
+              3+ years of experience</span> specializing in Full Stack Development with <span className="purple">React JS, Node JS, MySQL, and Sequelize ORM ,MongoDB. </span>  
+              Seeking challenging opportunities to contribute technical expertise and innovative solutions in a dynamic global environment.
               </p>
 
               <div className="heading-type">

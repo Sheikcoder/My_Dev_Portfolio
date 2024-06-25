@@ -44,17 +44,19 @@ export const PROJECTS = [
 ];
 
 export const SKILLS = [
-  { name: "ReactJs", initialRating: 4 },
   { name: "JavaScript", initialRating: 4 },
+  { name: "ReactJs", initialRating: 4 }, 
   { name: "Redux", initialRating: 4 },
+  { name: "NodeJS", initialRating: 4 }, 
+  { name: "MySQL", initialRating: 4 }, 
+  { name: "Sequelize", initialRating: 4 }, 
+  { name: "TypeScript", initialRating: 4 }, 
   { name: "Git", initialRating: 4 },
-  { name: "Html", initialRating: 4 },
-  { name: "CSS", initialRating: 4 },
+  { name: "Material ui", initialRating: 4 },
   { name: "Java", initialRating: 2 },
   { name: "Unit-Testing(Selenium)", initialRating: 3 },
   { name: "AdobeXD", initialRating: 2 },
-  { name: "Nodejs", initialRating: 1 },
  
 ];
 
-export const TOOLS = ["Visual Studio Code", "Git", "GitHub", "Chrome DevTools", "Npm (Node Package Manager)", "Atom", "Linux", "Firfox DevTools", "Postman", "smartCVS", "Atom" , "IntelliJ" ]
+export const TOOLS = ["Visual Studio Code", "Git", "Project IDX" , "GitHub", "Chrome DevTools", "AWS" , "Npm (Node Package Manager)", "Atom", "Linux", "Firfox DevTools", "Postman", "smartCVS", "Atom" , "IntelliJ" ]

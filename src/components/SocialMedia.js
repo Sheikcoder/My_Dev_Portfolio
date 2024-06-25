@@ -21,7 +21,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.linkedin.com/in/trichy-sheik-abdulla-a6601b182/"
+          href="https://www.linkedin.com/in/sheik-abdulla-a6601b182"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"

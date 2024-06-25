@@ -10,23 +10,21 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sheik Abdulla </span>
             from <span className="purple"> Trichy,Tamilnadu,India</span>
             <br />
-            Software Engineer who loves to transform ideas into reality using
-            code.
+            I am a Software Engineer who loves to transform ideas into reality using code. 
             <br />
-            Motivated designer and developer with experience creating
-            custom websites with ReactJs, JavaScript, HTML5, CSS3.
+            motivated full stack developer with experience creating custom websites using ReactJS, Node JS, MySQL, Sequelize, MongoDB , JavaScript, HTML5, and CSS3.
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, I enjoy engaging in various other activities!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Learn new Thinks
+              <ImPointRight /> Content Created
             </li>
             <li className="about-activity">
               <ImPointRight /> Youtuber
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading Book
+              <ImPointRight /> Motivational Speaker
             </li>
             <li className="about-activity">
               <ImPointRight /> Video & image Editor
